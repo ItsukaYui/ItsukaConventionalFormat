@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "minecraft:block/infested_deepslate_top",
+    "end": "minecraft:block/infested_deepslate",
     "side": "minecraft:block/infested_deepslate"
   }
 }
